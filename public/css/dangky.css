@@ -1,0 +1,22 @@
+.continer{
+    display:flex;
+    margin: 200px;
+    padding: 100px;
+    background-color: rgb(179, 153, 50);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 50px;
+}
+body {
+    margin: 50px 250px;
+    background-image: url(../img/1612040681_Hinh-anh-nuoc-dep-nhat.jpg);
+    background-size: cover;
+}
+#username{
+    margin: 10px;
+    
+}
+#password{
+    margin: 10px;
+}

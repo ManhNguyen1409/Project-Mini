@@ -1,0 +1,27 @@
+.continer{
+    display:flex;
+    margin: 50px 250px;
+    padding: 50px;
+    background-color: rgb(73, 137, 170);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+#username{
+    margin: 10px;
+    
+}
+#password{
+    margin: 10px;
+}
+.loginn{
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body{
+    margin:50px 250px;
+    background-image: url(../img/anh-ha-noi.jpg);
+    background-size: cover;
+}

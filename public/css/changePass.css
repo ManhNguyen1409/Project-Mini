@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+    margin: 200px;
+    padding: 100px;
+    background-color: rgb(73, 137, 170);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 50px;
+}
+#username{
+    margin: 10px;
+    
+}
+#password{
+    margin: 10px;
+}
+#newPass{
+    margin: 10px;
+}
+body{
+    margin:50px 250px;
+    background-image: url(../img/Tap-lam-van-lop-2-Em-hay-ke-ve-canh.jpg);
+    background-size: cover;
+}
